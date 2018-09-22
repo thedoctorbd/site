@@ -1,48 +1,4 @@
-/*{
-  margin: 0;
-  padding: 0;
-  border: 0;
-}
-body{
-  background-image: url('');
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
-  background-size: cover;
-  width: 100%;
-  height: 100%;
-  position: relative;
-}
-.bg-color{
-  width:100%;
-	height:100%;
-	display:block;
-  position: fixed;
-  background: rgba(0,0,0,0.5) url(https://www.athenadesignstudio.com/themes/selene/layout/images/overlay.png) repeat;
-	opacity: 0.99;
-  z-index: 98;
-}
-.animation-part{
-  width: 100%;
-  height: 100%;
-}
-.animation-part canvas{
-  width: 100%;
-  height: 100%;
-  z-index: 999;
-  position: fixed;
-  top: 0;
-}
-.body-bg{
-    background: rgba(0,0,0,0.5) url(https://www.athenadesignstudio.com/themes/selene/layout/images/overlay.png) repeat;
-    height: 100%;
-    left: 0;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 98;
-}
-*/
+
 *{
   margin:0;
   padding:0;
